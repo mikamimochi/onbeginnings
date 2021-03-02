@@ -56,7 +56,7 @@ body {
 
 #but button {
   position: absolute;
-  top: 4%;
+  top: 6%;
   left: 40%;
   transform: translate(-20%,-20%);
   font-family: 'Ibarra Real Nova', serif;
@@ -967,7 +967,7 @@ body {
 #but12 button {
   position: absolute;
   top: 80%;
-  left: 45%;
+  left: 55%;
   transform: translate(-20%,-20%);
   padding: 15px;
   font-family: 'Ibarra Real Nova', serif;
